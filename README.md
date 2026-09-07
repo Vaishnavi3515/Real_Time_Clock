@@ -765,7 +765,7 @@ Feel free to:
 
 <div align="center">
 
-### **Vaishnavi**
+### **Vaishnavi Gupta**
 
 🐍 Python Developer
 👁️ Computer Vision Enthusiast

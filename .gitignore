@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Output (keep folder via .gitkeep, ignore its contents)
+snapshots/*
+!snapshots/.gitkeep
+*.png
+!docs/*.png
